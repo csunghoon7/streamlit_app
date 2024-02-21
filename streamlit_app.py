@@ -1,5 +1,5 @@
 import streamlit
 
-streamlit.title('My parents New healthy Diner')
+streamlit.title('고객 주문 관리 내역')
 
-print('hello choisunghoon')
+print('choisunghoon')
